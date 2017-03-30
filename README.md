@@ -1,1 +1,1 @@
-# vib-lib
+# data for training caffe
